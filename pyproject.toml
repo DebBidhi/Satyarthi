@@ -1,0 +1,13 @@
+[project]
+name = "satyarthi-copy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bs4>=0.0.2",
+    "crewai>=0.118.0",
+    "crewai-tools>=0.43.0",
+    "markdown>=3.8",
+    "pydantic>=2.11.4",
+]
