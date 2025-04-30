@@ -40,7 +40,7 @@ Satyarthi operates through a four-stage pipeline:
 
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - CrewAI library
 - SerperDev API key (for web search capabilities)
 - OpenAI API key (for agent intelligence)
