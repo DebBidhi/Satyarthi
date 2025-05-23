@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup, Tag
 import markdown
 import textwrap
 
-def convert_markdown_to_html_cards(markdown_file_path, char_limit=500):
+def convert_markdown_to_html_cards(markdown_file_path, char_limit=300):
     """
     Convert a markdown file to HTML where ## headings become cards arranged 2 per row
     with a "See More" option for long content
